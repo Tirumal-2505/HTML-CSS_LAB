@@ -1,0 +1,73 @@
+
+body{
+    background-color: rgb(255,255, 255);
+    margin: 0%;
+    
+    padding-left: 300px;
+    /* padding top: 50px;
+     */
+}
+
+.test{
+    background-color: white;
+    width: 800px;
+    border: 2px solid black;
+    border-radius: 2px;
+    /* padding-left: 100px; */
+}
+.lab{
+    background-color:white;
+    width: 800px;
+    height: 400px;
+     overflow: hidden;
+    overflow-y: scroll; 
+
+  
+    /* padding-left: 100px;
+     */
+}
+.TestForm{
+    border-bottom: 1px solid black;
+    overflow: hidden;
+   
+    
+  
+
+}
+
+input{
+    padding: 5px;
+        border: none;
+        border-bottom: 1px solid black;
+}
+
+#image{
+   float: right;
+   padding-right: 320px;
+   padding-left: 370px;
+   width: 100px;
+   height: 50px;
+   position: fixed;
+
+} 
+
+button{
+    background-color: darkorchid;
+    padding: 3px;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+   
+}
+.submit{
+    border: 1px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    background-color: darkorchid;
+    padding: 2px;
+
+}
+
+
+ 
